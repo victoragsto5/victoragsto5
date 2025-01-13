@@ -23,8 +23,8 @@ Languages:<br>
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) 
 
 Frameworks, Platforms and Libraries:<br>
-[![Gherkin](https://img.shields.io/badge/Gherkin-83A603?logoColor=white)](#)<br>
-[![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white)](#) 
+[![Gherkin](https://img.shields.io/badge/Gherkin-83A603?logoColor=white)](#)
+[![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white)](#)<br>
 
 Project:<br> 
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#) 
