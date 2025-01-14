@@ -4,7 +4,7 @@
 - 🛠️ Skilled in **Test Automation**, **Manual Testing**
 - 🚀 Proficient in tools like **Cypress**, **Postman** and **Github Actions**. 
 - 🎓 **Ongoing studies** in **Quality Assurance and Software Engineering**.
-- 🏠  Based in Curitiba, Brazil.
+- 🏠   Based in Curitiba, Brazil.
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoragsto98) 
